@@ -4,8 +4,8 @@ This is the repository that contains all my works during the 15 days of Summer I
 <h1>"Virtual Community Support"</h1>
 
 
-Day 1 : Introduction to PostgreSQL
-    • Learn basics of SQL, set up PostgreSQL database, and Database Schema CI platform.
+Day 1 : Introduction to PostgreSQL<br>
+    • Learn basics of SQL, set up PostgreSQL database, and Database Schema CI platform.<br>
     • Hands-on: Able to create, insert, Update, Delete and sub-query data in PostgreSQL.
     
 Day 2 : Introduction to Angular
